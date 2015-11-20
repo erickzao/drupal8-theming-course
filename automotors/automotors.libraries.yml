@@ -1,0 +1,11 @@
+global:
+  version: VERSION
+  css:
+    base:
+      css/automotors.css: {}
+
+  js:
+    js/automotors.js: {}
+  dependencies:
+    - core/drupal
+    - core/jquery
